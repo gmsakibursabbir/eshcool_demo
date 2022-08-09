@@ -1,0 +1,332 @@
+/* common start */
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+}
+/* common end */
+
+/* header start */
+
+header {
+  background-color: #f0fff0;
+}
+
+.c_nav {
+}
+
+.logo {
+  width: 200px;
+}
+
+.menu {
+}
+
+.menu ul li a {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000 !important;
+  padding: 0 20px !important;
+}
+
+.menu ul li a:hover {
+  color: #fd511a !important;
+}
+
+/* button */
+.btn-common {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  line-height: 19px;
+  background: #21b573;
+  border: none;
+  border-radius: 33px;
+}
+
+.btn-common:hover {
+  color: #ffffff;
+  background: #fd511a;
+}
+
+.btn_header {
+  width: 105px;
+  height: 45px;
+  margin-left: 18px;
+}
+/* header end */
+
+/* hero start */
+.hero {
+  background: #f0fff0;
+}
+
+/* hero-left */
+.hr_left {
+  padding-top: 70px;
+}
+
+.hr_a {
+  line-height: 24px;
+  color: #fd511a;
+  text-decoration: none;
+}
+
+.hr_h1 {
+  font-weight: 700;
+  font-size: 50px;
+  color: #000000;
+  line-height: 70px;
+}
+
+.hr_h1_span {
+  color: #21b573;
+}
+
+.hr_txt {
+  font-size: 16px;
+  font-weight: 500;
+  color: #000000;
+  line-height: 36px;
+}
+
+.btn_hero {
+  width: 153px;
+  height: 43px;
+  left: 205px;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 33px;
+}
+
+/* hero-right */
+
+/* hero end */
+
+/* Learn start */
+.learn {
+}
+
+.l_row {
+  padding-top: 20px;
+}
+
+.learn_box {
+  width: 270px;
+  height: 270px;
+  background: #f8fffb;
+  border: 2px solid rgba(0, 0, 0, 0.025);
+  /* border: 1px solid red; */
+  border-radius: 10px;
+}
+
+.learn_box:hover {
+  background: #ffffff;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.ico_content {
+  padding-top: 3rem;
+}
+
+.ico_img {
+}
+
+.ico_img_im {
+  width: 66px;
+}
+
+.ico_content_p1 {
+  font-weight: 500;
+  font-size: 24px;
+  color: #413960;
+  line-height: 36px;
+  padding-top: 30px;
+}
+
+.ico_content_p2 {
+  font-weight: 400;
+  color: #585859;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* Learn end */
+
+/* Online course start */
+
+.course_header {
+  font-weight: 700;
+  font-size: 36px;
+  color: #413960;
+  line-height: 54px;
+  padding-bottom: 20px;
+}
+
+.o_row {
+  padding-top: 35px;
+}
+
+.crd_list {
+}
+
+.m_crd {
+  width: 370px;
+  height: 483px;
+  background: #ffffff;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+  border: none;
+  border-radius: 18px;
+}
+
+.crd_img {
+  width: 331px;
+  margin: 20px 0 20px 20px;
+}
+
+.card_custom_body {
+  padding: 0;
+  margin: 10px 20px 20px 20px;
+}
+
+.crd_h5 {
+  font-weight: 500;
+  font-size: 24px;
+  color: #413960;
+  line-height: 36px;
+}
+
+.crd_p {
+  font-weight: 400;
+  font-size: 16px;
+  color: #585859;
+  line-height: 24px;
+}
+
+.btn_course {
+  width: 137px;
+  height: 35px;
+}
+
+/* Others */
+.others {
+  width: 330px;
+  padding-bottom: 10px;
+  /* display: flex;
+  justify-content: space-between; */
+}
+/* left */
+.calander {
+}
+
+.calander_img {
+  width: 24px;
+  height: 24px;
+}
+
+.others_p {
+  font-weight: 500;
+  font-size: 16px;
+  color: #585859;
+  line-height: 24px;
+  padding-top: 2px;
+  padding-left: 7px;
+}
+/* right */
+.peoples {
+}
+
+.peoples_img {
+  width: 24px;
+  height: 24px;
+}
+
+/* Online course end */
+
+/* Testimonial start */
+.testimonial {
+}
+
+.t_row {
+  padding-bottom: 50px;
+}
+
+.text_h2 {
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+  line-height: 54px;
+}
+
+.test {
+}
+
+.test_img_box {
+  /* border: 1px solid red; */
+  /* padding-left: 45px; */
+}
+
+.test_img {
+  width: 120px;
+  height: 120px;
+}
+
+.test_p {
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  line-height: 30px;
+  padding-top: 13px;
+}
+
+/* Testimonial end */
+
+/* footer start */
+footer {
+  background-color: #282531;
+}
+
+.ft_r {
+  padding-top: 50px;
+}
+
+/* left */
+.ft_p {
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 30px;
+}
+/* right */
+.fl_p {
+  font-weight: 700;
+  font-size: 18px;
+  color: #ffffff;
+  cursor: auto;
+}
+
+.fl_a {
+  padding: 5px 0;
+}
+
+.fl_txt {
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.fl_txt:hover {
+  color: #fd511a;
+}
+
+.ft_b_p {
+  font-weight: 400;
+  font-size: 16px;
+  color: #cdcdcd;
+  line-height: 30px;
+  padding-top: 40px;
+}
+/* footer end */
