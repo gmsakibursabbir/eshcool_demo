@@ -1,2 +1,2 @@
 # eshcool_demo
-A online course learning site 
+A online course web development learning site 
